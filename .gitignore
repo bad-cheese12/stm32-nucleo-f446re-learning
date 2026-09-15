@@ -1,0 +1,6 @@
+# Local CubeIDE workspace and generated build output
+**/.metadata/
+**/Debug/
+**/Release/
+.ide-workspace/
+*.lnk

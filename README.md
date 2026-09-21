@@ -5,12 +5,8 @@ STM32 기반 임베디드 시스템 개인 학습 프로젝트입니다.
 ## 개발 환경
 - 보드: STMicroelectronics NUCLEO-F446RE
 - 구매처: 디바이스마트
-- STM32CubeMX: 설치 완료
-- STM32CubeIDE: 설치 완료
-
-## 현재 상태
-- GitHub 저장소 생성 완료
-- 보드 연결 및 첫 실행 확인 예정
+- STM32CubeMX
+- STM32CubeIDE
 
 ## 학습 계획
 - LED 점멸
